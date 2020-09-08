@@ -1,0 +1,29 @@
+body{
+    background: #C6FFDD;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+
+}
+.container{
+    /* display:flex; */
+    align-items:center;
+    justify-content: center;
+}
+.image{
+    width:270px;
+    margin-top: 20px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+@media(max-width:770px){
+    .container{
+        margin :0  10%; 
+    }
+    .image{
+        width:100%
+    }
+}
