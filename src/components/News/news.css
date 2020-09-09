@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Aclonica' );
+
+.newsheading {
+    font-size: 8px;
+    letter-spacing: 0.1rem;
+    font-style: italic;
+    font-family: 'Aclonica';
+    color: #52310b;
+    text-align: center;
+    text-shadow: 0 0.2rem 5rem rgb(119, 115, 115);
+    text-transform: uppercase;
+    margin: 4rem 0;
+  }

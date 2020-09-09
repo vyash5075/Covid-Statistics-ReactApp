@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Aclonica' );
+
+
+html {
+  font-size: 85.5%;
+}
+
+/* .App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+.recipes {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.Aboutuscard {
+  width: 90%;
+margin-left: 5%;
+  
+  display: flex;
+  flex-direction: column;
+  background-color: #d3d3d3;
+  padding: 1.5rem;
+  position: relative;
+  border-radius: 0.5rem;
+  box-shadow: 2rem 3rem 5rem #aaa;
+}
+
+.Aboutuscard h2 {
+  background-color: rgba(5, 5, 5, 0.986);
+  border-radius: 0.5rem;
+  
+  position: relative;
+  
+  left: 0rem;
+  right: 2.5rem;
+  bottom: 0.2em;
+  font-size: 2.5rem;
+  font-weight: 600;
+  
+  color: #fff;
+}
+.Aboutuscontent{
+    
+    width:100%;
+    overflow-wrap: break-word;
+    color: #40b48e;
+}
+.Aboutuscard img {
+  border-radius: 0.5rem;
+  object-fit: cover;
+  height:70%;
+  padding:10px;
+}
+
+.Aboutuscard a {
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #6d1650;
+    border: none;
+    border-radius: 0.5rem;
+    height: 3rem;
+    text-align-last: center;
+}
+
+.Aboutuscard button {
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #6d1650;
+  border: none;
+  border-radius: 0.5rem;
+  height: 3rem;
+}
+
+  
+
+
+
+
