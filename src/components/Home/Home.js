@@ -38,7 +38,7 @@ state={
 
   }
   render(){
-    //destructure the state from state
+    //destructure the state from statee
     const {data,country}=this.state;
   return (
     <div className={styles.container}>
