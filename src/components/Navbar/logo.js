@@ -4,7 +4,7 @@ render(){
     return(
         <div>
             <div className="logo">
-                <h1>Corona Tracker</h1>
+                <h1 >Corona Tracker</h1>
 
             </div>
             </div>

@@ -14,7 +14,7 @@ import tiredness2 from'../../images/tiredness2.jpg';
 const Covidsymptoms = () => {
     return (
         <>
-        <p style={{fontSize:'34px'}} className="Symptomsheading">COVID-19 SYMPTOMS</p>
+        <p style={{fontSize:'34px',color:'brown'}} className="Symptomsheading">COVID-19 SYMPTOMS</p>
       <div className="Symptoms">
           <Symptoms fever={"Headache"} headache={headache}></Symptoms>
           <Symptoms fever={"Fever"}  headache={fever}></Symptoms>

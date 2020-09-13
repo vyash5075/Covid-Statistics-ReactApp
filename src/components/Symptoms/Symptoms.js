@@ -9,7 +9,7 @@ const Symptoms = (props) => {
        <h2 style={{textAlign:'center'}}>{props.fever}</h2>
       <img src={props.headache} alt="image" />
      
-      <a href="#" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html" target="_blank" rel="noopener noreferrer">
        Know More
       </a>
       
