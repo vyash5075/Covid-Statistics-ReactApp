@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Covid-Statistics-ReactApp/static/css/main.9fb9dd21.chunk.css",
+    "main.js": "/Covid-Statistics-ReactApp/static/js/main.a5cb1a7d.chunk.js",
+    "main.js.map": "/Covid-Statistics-ReactApp/static/js/main.a5cb1a7d.chunk.js.map",
+    "runtime-main.js": "/Covid-Statistics-ReactApp/static/js/runtime-main.d705368d.js",
+    "runtime-main.js.map": "/Covid-Statistics-ReactApp/static/js/runtime-main.d705368d.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Covid-Statistics-ReactApp/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f557cebe.chunk.js": "/Covid-Statistics-ReactApp/static/js/2.f557cebe.chunk.js",
+    "static/js/2.f557cebe.chunk.js.map": "/Covid-Statistics-ReactApp/static/js/2.f557cebe.chunk.js.map",
+    "index.html": "/Covid-Statistics-ReactApp/index.html",
+    "precache-manifest.e7a3c0c3d1d69afc06166ce25eacc1c0.js": "/Covid-Statistics-ReactApp/precache-manifest.e7a3c0c3d1d69afc06166ce25eacc1c0.js",
+    "service-worker.js": "/Covid-Statistics-ReactApp/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Covid-Statistics-ReactApp/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.9fb9dd21.chunk.css.map": "/Covid-Statistics-ReactApp/static/css/main.9fb9dd21.chunk.css.map",
+    "static/js/2.f557cebe.chunk.js.LICENSE.txt": "/Covid-Statistics-ReactApp/static/js/2.f557cebe.chunk.js.LICENSE.txt",
+    "static/media/chestpain.jpg": "/Covid-Statistics-ReactApp/static/media/chestpain.d08aa803.jpg",
+    "static/media/cough.jpg": "/Covid-Statistics-ReactApp/static/media/cough.9e3aef2f.jpg",
+    "static/media/covid.png": "/Covid-Statistics-ReactApp/static/media/covid.d7265326.png",
+    "static/media/feverr.jpg": "/Covid-Statistics-ReactApp/static/media/feverr.36bb46e6.jpg",
+    "static/media/headache.jpg": "/Covid-Statistics-ReactApp/static/media/headache.2249a408.jpg",
+    "static/media/runnynose2.jpg": "/Covid-Statistics-ReactApp/static/media/runnynose2.4f2f6e57.jpg",
+    "static/media/sorethroat.jpg": "/Covid-Statistics-ReactApp/static/media/sorethroat.df19dea2.jpg",
+    "static/media/stiffness.jpg": "/Covid-Statistics-ReactApp/static/media/stiffness.3f35d135.jpg",
+    "static/media/tasteloss.jpg": "/Covid-Statistics-ReactApp/static/media/tasteloss.0c6b6583.jpg",
+    "static/media/tiredness2.jpg": "/Covid-Statistics-ReactApp/static/media/tiredness2.dd8b7fa2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d705368d.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f557cebe.chunk.js",
+    "static/css/main.9fb9dd21.chunk.css",
+    "static/js/main.a5cb1a7d.chunk.js"
+  ]
+}
