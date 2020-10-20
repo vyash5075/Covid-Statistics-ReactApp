@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployment
 http://vyash5075.github.io/Covid-Statistics-ReactApp
 
+## Api Source
+https://github.com/SauravKanchan/NewsAPI
+
 ## Available Scripts
 
 In the project directory, you can run:
