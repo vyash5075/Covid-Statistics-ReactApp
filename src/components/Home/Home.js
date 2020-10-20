@@ -15,8 +15,9 @@ state={
 }
   async componentDidMount(){
     const fetchedData=await fetchData();
-    console.log(fetchedData);
+    console.log("fetchedData"+fetchedData);
     this.setState({data:fetchedData});
+   // console.log("aaaaa"+this.data.value);
   }
   handleCountryChange=async(country)=>{
     console.log(country);

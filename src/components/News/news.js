@@ -10,7 +10,9 @@ class News extends Component{
     }
 componentDidMount(){
   
-    fetch('http://newsapi.org/v2/everything?domains=wsj.com&apiKey=5c8c7efb57e2401dafa4ceae7ae031ff')
+    //fetch('http://newsapi.org/v2/everything?domains=wsj.com&apiKey=5c8c7efb57e2401dafa4ceae7ae031ff')
+    //fetch('https://newsapi.org/v2/top-headlines?country=in&apiKey=5c8c7efb57e2401dafa4ceae7ae031ff')
+    fetch('https://saurav.tech/NewsAPI/top-headlines/category/health/in.json')
     .then( (response)=>{
         return response.json();
     })
