@@ -70,7 +70,7 @@ function Footerr() {
 
 <div className="footer-copyright text-center py-3">
   <p>&copy; Copyright
-  <a href="#">theprovider.com</a></p>
+  <a href="#">|2020|</a></p>
   <p>Designed by Yash Verma </p>
 </div>
         </div>
