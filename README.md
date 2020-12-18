@@ -7,7 +7,7 @@ http://vyash5075.github.io/Covid-Statistics-ReactApp
 https://github.com/SauravKanchan/NewsAPI
 
 ## Available Scripts
-
+G
 In the project directory, you can run:
 
 ### `npm start`
